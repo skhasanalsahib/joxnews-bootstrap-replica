@@ -1,3 +1,39 @@
 * {
   font-family: "Switzer", Arial, sans-serif;
 }
+
+body {
+  background-color: #fffefa;
+}
+
+/* Custom Font Sizes */
+.fs-14p {
+  font-size: 0.875rem;
+}
+
+.fs-42p {
+  font-size: 2.625rem;
+}
+
+/* custom text colors */
+body p {
+  color: #6d6d6d;
+}
+
+/* Custom header category */
+.custom-header-category {
+  border-top: 1px solid #d7d7d7;
+  border-bottom: 1px solid #d7d7d7;
+}
+
+/* Hero Section */
+.custom-gray-border-right {
+  border-right: 1px solid #d7d7d7;
+}
+
+.author-img {
+  height: 45px;
+  width: 45px;
+  border-radius: 50%;
+  overflow: hidden;
+}
