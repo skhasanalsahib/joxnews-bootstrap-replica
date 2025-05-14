@@ -74,6 +74,12 @@ body p {
   background-color: #6d6d6d;
 }
 
+.vertical-divider-white {
+  width: 1px;
+  height: 16px;
+  background-color: #ffffff;
+}
+
 /* Latest News Section */
 h2 {
   color: #1f1f1f;
@@ -82,4 +88,13 @@ h2 {
 /* Highlighted Latest News */
 .highlighted-latest-news {
   background-color: #cf412b;
+}
+
+/* Technology Section */
+.min-height-405p {
+  min-height: 405px;
+}
+
+.max-height-405p {
+  max-height: 405px;
 }
