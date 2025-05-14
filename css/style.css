@@ -45,6 +45,10 @@ body p {
   color: #6d6d6d;
 }
 
+.light-bottom-border {
+  border-bottom: 1px solid #d7d7d7b3;
+}
+
 /* Custom header category */
 .custom-header-category {
   border-top: 1px solid #d7d7d7;
@@ -73,4 +77,9 @@ body p {
 /* Latest News Section */
 h2 {
   color: #1f1f1f;
+}
+
+/* Highlighted Latest News */
+.highlighted-latest-news {
+  background-color: #cf412b;
 }
